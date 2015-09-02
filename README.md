@@ -1,4 +1,4 @@
 wildfly-rachael
 ===============
 
-Wildfly with admin account enable. For testing only.
+Wildfly with admin account enabled. For testing only.
