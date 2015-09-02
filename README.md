@@ -1,4 +1,4 @@
 wildfly-rachael
 ===============
 
-Saas Bot definition files for WildFly (formerly JBoss) 
+Wildfly with admin account enable. For testing only.
